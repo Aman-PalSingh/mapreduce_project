@@ -1,0 +1,13 @@
+{
+  "name": "mapreduce-latency-demo",
+  "version": "1.0.0",
+  "description": "A small MapReduce example that counts latency values above and below 10 seconds.",
+  "main": "map.js",
+  "scripts": {
+    "start": "bash run.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
